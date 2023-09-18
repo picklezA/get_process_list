@@ -1,5 +1,5 @@
 # version: 0.0.1
-# author: Ben
+# author: picklez
 # priority escalation :)
 
 import psutil
